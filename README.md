@@ -3,8 +3,8 @@
 ## Installation
 
 ```shell
-$ brew tap thoongnv/homebrew-strend https://github.com/thoongnv/homebrew-strend
-$ brew install strend
+brew tap thoongnv/homebrew-strend https://github.com/thoongnv/homebrew-strend
+brew install strend
 ```
 
 ## TODO
