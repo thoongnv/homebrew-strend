@@ -2,7 +2,7 @@ class Strend < Formula
   desc "Search and visualize Shodan historical data in the terminal"
   homepage "https://github.com/thoongnv/trends-rs"
   url "https://github.com/thoongnv/trends-rs/archive/0.2.2.tar.gz"
-  sha256 "45f08021f690c1dd45c2f3d427b2de4014cb59220f6af8f525859717136fd38d"
+  sha256 "4752af9a14ad91b43d1d7dbe7f64b2182b884fcc154b80b85217b0759bbd0e03"
   license "MIT"
 
   depends_on "rust" => :build
