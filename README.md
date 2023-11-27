@@ -1,9 +1,9 @@
-# Homebrew tap repository for [strend](https://github.com/thoongnv/trends-rs)
+# Homebrew tap repository for [strend](https://gitlab.com/shodan-public/homebrew-shodan)
 
 ## Installation
 
 ```shell
-brew tap thoongnv/homebrew-strend https://github.com/thoongnv/homebrew-strend
+brew tap shodan-public/homebrew-shodan https://gitlab.com/shodan-public/homebrew-shodan
 brew install strend
 ```
 
